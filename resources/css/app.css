@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* *Alpine JS cloaking ability */
+[x-cloak] {
+    display: none;
+}
