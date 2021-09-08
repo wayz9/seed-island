@@ -17,6 +17,7 @@
     },
     "dependencies": {
         "@tailwindcss/line-clamp": "^0.2.1",
+        "alpinejs": "^3.3.2",
         "autoprefixer": "^10.3.4",
         "postcss-import": "^14.0.2",
         "tailwindcss": "^2.2.14"
